@@ -21,7 +21,6 @@ library(plotly)
 library(microbiome)
 library(knitr)
 library(ALDEx2)
-
 ```
 
 # How does high-fat diet impact the microbiome of mice?

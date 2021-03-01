@@ -1,5 +1,13 @@
-
-
+# pre-reqs
+´´´
+python -m pip install --upgrade pip
+pip install altair
+pip install ete3
+sudo apt install python3-pyqt4
+ete3
+sudo apt-get install python3.8-dev 
+pip install scikit-bio --upgrade
+´´´
 
 [Binder_Rstudio]: https://mybinder.org/v2/gh/metagenome-atlas/BinderTutorial/R?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmetagenome-atlas%252FTutorial%26urlpath%3Drstudio%252F%26branch%3Dmaster
 [Binder_Jupyter]: https://mybinder.org/v2/gh/metagenome-atlas/BinderTutorial/Python?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fmetagenome-atlas%252FTutorial%26urlpath%3Dlab%252Ftree%252FTutorial%252F%26branch%3Dmaster
